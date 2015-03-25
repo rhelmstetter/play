@@ -1,0 +1,2 @@
+Let's make something. Start a scala project for fun and I'll follow along
+
